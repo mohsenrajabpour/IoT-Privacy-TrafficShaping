@@ -5,7 +5,7 @@ This repository contains the implementation and development resources for the pu
 The project involves developing traffic shaping mechanisms using the capabilities of the Click Modular Router (https://github.com/kohler/click), where newly created elements can be added to Click to implement the traffic shaping systems.
 
 ## About This Repository
-This repository hosts new elements developed using the Click Modular Router, tailored for our research conducted in the aforementioned publication. The practical development, implementation, and tests were conducted on the [ORBIT testbed](https://www.orbit-lab.org).
+This repository hosts new elements developed using the Click Modular Router, along with various configuration and execution scripts for setting up and running tests on the testbed, all tailored for our research conducted in the aforementioned publication. The practical development, implementation, and tests were conducted on the [ORBIT testbed](https://www.orbit-lab.org).
 
 ### Experiment Setup
 The experiments were conducted on the SB4 of the ORBIT testbed. The files located in the `click_elements` directory should be placed in the `/click/elements/local` directory of the Click Modular Router.
